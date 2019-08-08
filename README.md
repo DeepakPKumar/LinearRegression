@@ -3,7 +3,7 @@
         <article> 
             <header> 
                 <h1>Simple Linear Regression using R & Python</h1> 
-                <p>Simple Linear Regression scripts ( R & Python ) and data file, showing how to predict with one variable and how Linear Regression works.</p>
+                <p>Simple Linear Regression scripts ( R & Python ) and a data file, showing how to predict with one variable and how Linear Regression works.</p>
                 <p> To understand more you can check this blog : <a href="http://sqlskillport.blogspot.com/2019/08/simple-linear-regression-with-r-python.html">Simple Linear Regression with R & Python</a></p>
             </header> 
             <header>
